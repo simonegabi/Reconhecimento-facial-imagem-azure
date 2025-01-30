@@ -1,1 +1,5 @@
 Outputs #
+Reconhecimento de Texto em Documentos: Imagine que você tem uma imagem de um documento impresso. O serviço de Visão Computacional pode analisar a imagem e extrair o texto, convertendo-o em um formato digital que pode ser editado e pesquisado.
+Leitura de Placas de Rua: Suponha que você tenha uma foto de uma placa de rua. O serviço pode identificar e extrair o texto da placa, permitindo que você use essas informações para navegação ou outras aplicações.
+Análise de Faturas: Empresas podem usar o reconhecimento de texto para automatizar a entrada de dados de faturas. Ao escanear uma imagem da fatura, o serviço pode extrair informações como números de fatura, datas e valores, facilitando a gestão financeira.
+Digitalização de Cartões de Visita: Ao tirar uma foto de um cartão de visita, o serviço pode extrair os dados de contato e armazená-los automaticamente em um banco de dados ou aplicativo de contatos.
